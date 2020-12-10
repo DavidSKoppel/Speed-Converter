@@ -5,10 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Speed_Converter"
         mc:Ignorable="d"
-        Title="MainWindow" Height="418" Width="306">
+        Title="MainWindow" Height="368" Width="306">
     <Grid>
-        <Label x:Name="Label1" Content="Calculations" HorizontalAlignment="Left" Margin="90,172,0,0" VerticalAlignment="Top" Width="93.993"/>
-        <Button x:Name="Button1" Content="Button" HorizontalAlignment="Left" Margin="90,222,0,0" VerticalAlignment="Top" Width="75" Click="Button1_Click"/>
-        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Height="23" Margin="90,129,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="120" TextChanged="TextBox1_TextChanged"/>
+        <Label x:Name="Label1" Content="Calculations" HorizontalAlignment="Left" Margin="22,75,0,0" VerticalAlignment="Top" Width="251"/>
+        <Button x:Name="Button1" Content="Click to change between m/s and MPH" HorizontalAlignment="Left" Margin="22,151,0,0" VerticalAlignment="Top" Width="251" Click="Button1_Click" Height="57.96"/>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Height="23" Margin="22,47,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="120" TextChanged="TextBox1_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Height="34" Margin="22,223,0,0" TextWrapping="Wrap" Text="Calculations changes after you type in new data" VerticalAlignment="Top" Width="163"/>
     </Grid>
 </Window>
