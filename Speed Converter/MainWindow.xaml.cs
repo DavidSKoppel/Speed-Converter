@@ -24,5 +24,30 @@ namespace Speed_Converter
         {
             InitializeComponent();
         }
+
+        bool ButtonState = true; 
+
+        private void TextBox1_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            double input = double.Parse(TextBox1.Text);
+            if (ButtonState == true)
+            {
+                double result = input * 0.44704;
+                Label1.Content = input.ToString() + " MPH => " + string.Format("{0:0.00}", result) + " M/s";
+            }
+            else if (ButtonState == false)
+            {
+                double result = input / (1609.44 / 3600);
+                Label1.Content = input.ToString() + " M/s => " + string.Format("{0:0.00}", result) + " MPH";
+            }
+        }
+
+        private void Button1_Click(object sender, RoutedEventArgs e)
+        {
+            if (ButtonState == true)
+                ButtonState = false;
+            else if (ButtonState == false)
+                ButtonState = true;
+        }
     }
 }

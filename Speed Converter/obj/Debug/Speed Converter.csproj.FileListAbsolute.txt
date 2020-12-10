@@ -1,0 +1,15 @@
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\bin\Debug\Speed Converter.exe.config
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\bin\Debug\Speed Converter.exe
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\bin\Debug\Speed Converter.pdb
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\Speed Converter.csprojAssemblyReference.cache
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\MainWindow.g.cs
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\App.g.cs
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\Speed Converter_MarkupCompile.cache
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\Speed Converter_MarkupCompile.lref
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\MainWindow.baml
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\Speed Converter.g.resources
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\Speed_Converter.Properties.Resources.resources
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\Speed Converter.csproj.GenerateResource.cache
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\Speed Converter.csproj.CoreCompileInputs.cache
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\Speed Converter.exe
+C:\Users\koppe\Source\Repos\Speed-Converter\Speed Converter\obj\Debug\Speed Converter.pdb
